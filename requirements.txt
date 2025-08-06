@@ -1,7 +1,6 @@
 streamlit
-transformers
-pdf2image
-torch
+openai
+PyMuPDF
 Pillow
-requests
+
 
