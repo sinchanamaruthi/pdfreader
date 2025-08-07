@@ -1,3 +1,14 @@
 streamlit
 openai
 PyMuPDF
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+python-dotenv
+pillow
+requests
+yfinance
+beautifulsoup4
+lxml
